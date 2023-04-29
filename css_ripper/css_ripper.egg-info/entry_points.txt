@@ -1,0 +1,3 @@
+[console_scripts]
+css-ripper = css_ripper.css_ripper:main
+

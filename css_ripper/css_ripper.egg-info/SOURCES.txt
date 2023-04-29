@@ -1,0 +1,8 @@
+README.md
+setup.py
+css_ripper.egg-info/PKG-INFO
+css_ripper.egg-info/SOURCES.txt
+css_ripper.egg-info/dependency_links.txt
+css_ripper.egg-info/entry_points.txt
+css_ripper.egg-info/requires.txt
+css_ripper.egg-info/top_level.txt
